@@ -1,2 +1,3 @@
 # BaseAddressLocation
-Convert base ID or address to longitude and latitude
+对地名以及手机基站号进行定位，获取其经纬度的java程序
+使用了百度地图和QQ地图，均需要用去官网申请key
